@@ -1,0 +1,40 @@
+.main{
+  background: red;
+  width: 100%
+display: flex;
+justify-content: space-between;
+}
+.left{
+  background: green;
+  width: 20%;
+  text-align: center;
+}
+.left1 img{
+  width: 30%;
+}
+.right{
+  background: #aacccc;
+width: 79%
+}
+
+
+@media only screen and (min-device-width:460px) and (max-device-width:780px) {
+  .main{
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .left{
+    width: 100%;
+    /* display: flex; */
+  }
+/*  .left1{
+    width: 100%;
+  }*/
+  .details{
+    display: flex;
+    justify-content: space-between;
+  }
+  .right{
+    width:100%;
+  }
+}

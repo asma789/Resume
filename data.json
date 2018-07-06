@@ -1,0 +1,18 @@
+{
+  "co":"this is my strength",
+  "Achieve":{
+    "details":"Iwon 1st prize in school days"
+  },
+  "education":[{
+    "name":"B.Tech:",
+    "institute":"Completed my B.Tech in Andhra Loyola Institute Of Engineering and Technology with 75%"
+    },
+  {
+    "name":"inter",
+    "institute":"Completed my inter in Sri Chaitanya Jr College with 87%"
+    },
+  {
+    "name":"s.s.c",
+    "institute":"Completed my schooling in Ravindra Bharathi school with 82%"
+    }]
+}
