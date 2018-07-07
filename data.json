@@ -1,6 +1,7 @@
 {
   "co":"this is my strength",
   "Achieve":{
+    "name":"s.s.c",
     "details":"Iwon 1st prize in school days"
   },
   "education":[{
@@ -14,5 +15,13 @@
   {
     "name":"s.s.c",
     "institute":"Completed my schooling in Ravindra Bharathi school with 82%"
-    }]
+    }],
+    "technical":[{
+      "name":"operating systems",
+      "value":"windows,linux,etc.,"
+      },
+    {
+      "name":"languages",
+      "value":"HTML5,java script,CSS3,angular JS"
+      }]
 }

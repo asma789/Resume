@@ -1,11 +1,11 @@
 .main{
-  background: red;
+  background: blue;
   width: 100%
 display: flex;
 justify-content: space-between;
 }
 .left{
-  background: green;
+  background: white;
   width: 20%;
   text-align: center;
 }
@@ -13,7 +13,7 @@ justify-content: space-between;
   width: 30%;
 }
 .right{
-  background: #aacccc;
+  background: red;
 width: 79%
 }
 
